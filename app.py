@@ -103,7 +103,7 @@ i hope today treats you gently. i hope you laugh a lot, feel loved, feel celebra
 
 
     # ✅ Clean GitHub image URLs (images starting with shar1.jpg as requested)
-    BASE_IMG = "https://raw.githubusercontent.com/thesiddheshh/sharturns1/main/images"
+    BASE_IMG = "https://raw.githubusercontent.com/thesiddheshh/sharturns18/main/images"
     PHOTO_URLS = [
         f"{BASE_IMG}/shar1.jpg",
         f"{BASE_IMG}/shar2.jpg",
