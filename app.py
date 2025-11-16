@@ -111,7 +111,7 @@ i hope today treats you gently. i hope you laugh a lot, feel loved, feel celebra
         f"{BASE_IMG}/shar4.jpg",
         f"{BASE_IMG}/shar5.jpg",
         f"{BASE_IMG}/shar6.jpg",
-        f"{BASE_IMG}/shar6.jpg",
+        f"{BASE_IMG}/shar7.jpg",
     ]
 
     # -------------------------------
